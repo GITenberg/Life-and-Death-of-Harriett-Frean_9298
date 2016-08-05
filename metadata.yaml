@@ -1,0 +1,40 @@
+_repo: Life-and-Death-of-Harriett-Frean_9298
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, May
+    alias: Sinclair, Mary Amelia St. Clair
+    birthdate: 1863
+    deathdate: 1946
+    gutenberg_agent_id: '3004'
+    url: http://www.gutenberg.org/2009/agents/3004
+    wikipedia: http://en.wikipedia.org/wiki/May_Sinclair
+description: <p>"In a few short pages," writes Francine Prose in her Introduction,
+  "May Sinclair succeeds in rendering the oppressive weight and strength of the chains
+  of family love." Young Harriett Frean is taught that "behaving beautifully" is paramount,
+  and she becomes a self-sacrificing woman whose choices prove devastating to herself
+  and to those who love her most. An early pioneer of<br>stream-of-consciousness writing,
+  Sinclair employs the technique brilliantly in this finely crafted psychological
+  novel. Evoking the style and depth of her contemporaries Virginia Woolf and D. H.
+  Lawrence, Sinclair's haunting narrative also reflects her keen interest in the theories
+  of Jung and Freud. The text of this Modern Library 20th Century Rediscovery was
+  set from the first American edition of 1922.<br><br><i>From the Trade Paperback
+  edition.</i>
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Single women -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Women -- England -- Fiction'
+- !lcsh 'Repression (Psychology) -- Fiction'
+- GITenberg
+title: Life and Death of Harriett Frean
+url: http://www.gutenberg.org/ebooks/9298
